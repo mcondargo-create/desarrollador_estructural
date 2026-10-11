@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Entorno / secretos
+.env
+*.key
+
+# Editores y SO
+.vscode/settings.json
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y de respaldo de software estructural
+*.$et
+*.$2k
+*.LOG
+*.OUT
+*.bak
+*.tmp
+~$*
+
+# Resultados pesados (regenerables)
+resultados/
+output/
+*.dwl
+*.dwl2
